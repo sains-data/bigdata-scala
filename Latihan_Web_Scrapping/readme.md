@@ -133,6 +133,11 @@ Di dalam file `QuoteScraper.scala`, tulis kode yang sesuai dengan instruksi lab 
 * **Memperbaiki Kesalahan**: Jika ada kesalahan, VSCode akan menunjukkan garis tempat kesalahan terjadi. Kamu bisa memperbaikinya langsung di editor.
 * **Menjalankan Ulang**: Setiap kali kamu mengubah kode, cukup jalankan kembali perintah `sbt run` di terminal untuk melihat perubahan.
 
+## Penyelesaian Challange
+
+Untuk membuat solusi pada pertanyaan refleksi dan challange, maka dapat membuat folder baru dengan skema nya sama seperti menjalankan contoh dari QuoteScrapper.scala dengan build.sbt nya.
+sehingga outputnya adalah folder ketiga dengan nama `Challange`. 
+
 ## **Kesimpulan**:
 
 Dengan mengikuti langkah-langkah di atas, kamu telah berhasil menjalankan proyek web scraper menggunakan **Scala** dan **jsoup** di **VSCode**. Proyek ini menggunakan **sbt** untuk mengelola dependensi, yang memudahkan penggunaan **jsoup** untuk melakukan web scraping.
