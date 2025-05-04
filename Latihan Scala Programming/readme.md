@@ -3,48 +3,57 @@
 ## Contoh
 
 1. Problem 1: Tulis sebuah program untuk mencetak "Scala itu menyenangkan!" ke layar.
-    Jawaban: file `fun.scala`
+> Jawaban: file `fun.scala`
 
 2. Problem 2: Tulis sebuah program untuk menghitung selisih antara dua bilangan bulat.
    **Pra-syarat:** Kedua bilangan bulat harus dibaca dari keyboard.
    **Pasca-syarat:** Selisihnya harus ditampilkan di layar.
-   Jawaban: file `diff.scala`
+   
+> Jawaban: file `diff.scala`
 
 3. Problem 3: Tulis sebuah program untuk mencetak setiap huruf dari sebuah string.
    **Pra-syarat:** String harus dibaca dari keyboard.
    **Pasca-syarat:** Setiap huruf harus dicetak pada baris yang terpisah.
-   Jawaban: file `print.scala`
+   
+> Jawaban: file `print.scala`
 
 4. **Buat sebuah kelas bernama `Rectangle` dengan tiga atribut: `length` (panjang), `breadth` (lebar), dan `area` (luas).**
    Juga buat sebuah metode bernama `computeArea` di dalam kelas `Rectangle`.
    Selanjutnya, buat sebuah aplikasi bernama `RectApplication`, yang memberikan nilai panjang dan lebar, memanggil metode `computeArea`, dan mencetak hasil luas ke konsol.
-   Jawaban: file `rect.scala`
+
+> Jawaban: file `rect.scala`
 
 
 5. **Selesaikan Soal #4 menggunakan `case class` dan `singleton object`.**
-    Jawaban: file `case.scala`
+
+> Jawaban: file `case.scala`
 
 6. **Buat sebuah kelas bernama `Book` yang memiliki tiga atribut: `name` (nama), `price` (harga), dan `quantity` (jumlah).**
    Atribut `price` bertipe `Price` yang memiliki dua atribut: `currencyName` (nama mata uang) dan `priceValue` (nilai harga).
    Selanjutnya, buat sebuah aplikasi yang dapat dijalankan untuk mencetak total harga dari sejumlah buku tertentu.
    Buat kelas dan metode lainnya yang diperlukan secara tepat.
-   Jawaban: file `book.scala`
+
+> Jawaban: file `book.scala`
 
 7. **Menggunakan ekspresi `for`, tulislah program untuk menghasilkan bilangan Fibonacci yang kurang dari 40. Sertakan juga angka 0.**
    *Petunjuk:* Bilangan Fibonacci dapat dihasilkan dengan rumus:
    **Fn = Fn-1 + Fn-2**
-   Jawaban: file `fib1.scala`
+
+> Jawaban: file `fib1.scala`
 
 8. **Gunakan perulangan `while` untuk menyelesaikan Soal #7.**
-   Jawaban: file `fib2.scala`
+
+> Jawaban: file `fib2.scala`
 
 9. **Baca sebuah bilangan bulat antara 1 hingga 10 (inklusif) dari input keyboard. Kemudian hasilkan bilangan Fibonacci yang lebih besar dari bilangan tersebut.**
    Bilangan Fibonacci yang dihasilkan harus kurang dari 30, dan program harus mencetak pesan yang sesuai jika terjadi pengecualian.
    Buat pengecualian (exception) yang sesuai jika input berada di luar rentang yang ditentukan.
-   Jawaban: file `fib3.scala`
+
+> Jawaban: file `fib3.scala`
 
 10. **Tulislah program untuk menghitung faktorial dari suatu bilangan non-negatif yang diberikan.**
-    Jawaban: file `fact.scala`
+
+> Jawaban: file `fact.scala`
 
 ## Latihan
 
