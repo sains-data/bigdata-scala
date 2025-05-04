@@ -2,7 +2,7 @@ import org.jsoup.Jsoup
 import scala.jdk.CollectionConverters._
 import scala.util.Try
 
-object QuoteScraper {
+object NextQuoteScraper {
   def main(args: Array[String]): Unit = {
     val baseUrl = "https://quotes.toscrape.com/page/"
     val keyword = "truth"  // Kata yang dicari dalam kutipan
