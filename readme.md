@@ -50,7 +50,7 @@ move cs-x86_64-pc-win32.exe cs.exe
 ```bash
 cs setup
 ```
-Output yang diharapka:
+Output yang diharapkan:
 ```bash
 Checking if a JVM is installed
 Found a JVM installed under C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot.
@@ -134,7 +134,7 @@ Checking if the standard Scala applications are installed
 20. isi dengan kode berikut:
     ```scala
     object Hello extends App {
-    println("Hello, Sains Data 2022!")
+        println("Hello, Sains Data 2022!")
     }
     ```
     lalu simpan.
