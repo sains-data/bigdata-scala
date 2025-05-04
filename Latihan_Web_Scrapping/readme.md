@@ -76,12 +76,16 @@ Penulis: J.K. Rowling
 2. Bagaimana cara menambahkan scraping ke halaman kedua?
 3. Bagaimana jika kita ingin menyimpan hasil ke file?
 
+> Lihat file Challange.scala
+
 ## 🚀 Challenge (Opsional)
 
 Modifikasi program untuk:
 
 * Menampilkan hanya kutipan yang mengandung kata tertentu (misalnya “truth”).
 * Scraping lebih dari 1 halaman dengan URL berikutnya (`Next →`).
+
+> Lihat file Challange.scala
 
 # Menjalankan proyek di VSCode
 
