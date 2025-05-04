@@ -155,7 +155,8 @@ Checking if the standard Scala applications are installed
     ```
 
 Selamat! Anda telah berhasil memasang dan menguji coba pertama kali scala programming di windows!
-Sekarang selanjutnya lakukan kegiatan Latihan di folder Latihan Scala.
-Lanjutkan dengan pemrograman dengan web scrapping.
+Sekarang selanjutnya lakukan kegiatan:
+1. Latihan di folder Latihan Scala.
+2. Berikutnya mengerjakan Latihan web scrapping.
 
 
