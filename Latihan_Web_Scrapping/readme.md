@@ -140,4 +140,4 @@ sehingga outputnya adalah folder ketiga dengan nama `Challange`.
 
 ## **Kesimpulan**:
 
-Dengan mengikuti langkah-langkah di atas, kamu telah berhasil menjalankan proyek web scraper menggunakan **Scala** dan **jsoup** di **VSCode**. Proyek ini menggunakan **sbt** untuk mengelola dependensi, yang memudahkan penggunaan **jsoup** untuk melakukan web scraping.
+Dengan mengikuti langkah-langkah di atas, kamu telah berhasil menjalankan proyek web scraper menggunakan **Scala** dan **jsoup** di **VSCode**. Praktikum ini menggunakan **sbt** untuk mengelola dependensi, yang memudahkan penggunaan **jsoup** untuk melakukan web scraping.
