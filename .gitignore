@@ -1,0 +1,25 @@
+# Bawaan VS Code
+.vscode/
+
+# Scala & Metals
+.metals/
+.bloop/
+.bsp/
+.idea/
+target/
+project/project/
+project/target/
+
+# Scala CLI
+.scala-build/
+
+# File OS
+.DS_Store
+Thumbs.db
+
+# Log / sementara
+*.log
+*.class
+*.tasty
+
+
